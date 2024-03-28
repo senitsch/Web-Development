@@ -33,7 +33,7 @@ Contribution: Concept, Design, Implementation, Maintenance
 ## Amethyst Sailing Trips (2018 - 2020)
 [https://amethystsailingtrips.com/ (Archived)](https://web.archive.org/web/20200123143536/http://amethystsailingtrips.com/)
 
-Contribution: Concept, Design, Implementation, Maintenance
+Contribution: Concept, Design, Branding, Implementation, Maintenance
 
 [<img src="https://i.imgur.com/NmMvf1I.png">](https://web.archive.org/web/20200123143536/http://amethystsailingtrips.com/)
 
